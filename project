@@ -1,5 +1,109 @@
-<html>
-<body>
-<h1>Projects</h1>
-</body>
-</html>
+1 <!DOCTYPE html> 
+2 <html> 
+3   <head> 
+4 <link rel="icon" href="demo_icon.gif" type="image/gif" sizes="16x16"> 
+5 
+ 
+6     <!-- Latest compiled and minified CSS --> 
+7  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"> 
+8 
+ 
+9  <!-- Optional theme --> 
+10  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css"> 
+11      
+12   <body> 
+13 
+ 
+14 <center> 
+15 <!-- Single button --> 
+16 <div class="btn-group"> 
+17   <button type="button" class="btn btn-warning dropdown-toggle" data-toggle="dropdown" aria-expanded="false"> 
+18     <font size=25>Home</font> <span class="caret"></span> 
+19   </button> 
+20   <ul class="dropdown-menu" role="menu"> 
+21     <li><center>Gallery<br><button><a href="https://www.youtube.com/channel/UCqZdkkMWN2i4fLBUB1ziUUg"><span class="glyphicon glyphicon-picture" aria-hidden="true"></span></button></center></a></li> 
+22     <li><center>Forums<br><button><a href="https://www.youtube.com/channel/UCqZdkkMWN2i4fLBUB1ziUUg"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></button></center></a></li> 
+23     <li><center>Youtube<br><button><a href="https://www.youtube.com/channel/UCqZdkkMWN2i4fLBUB1ziUUg"><span class="glyphicon glyphicon-film" aria-hidden="true"></span></button></center></a></li> 
+24     <li class="divider"></li> 
+25     <li><a href="#">About Patenaude</a></li> 
+26   </ul> 
+27 </div> 
+28 
+ 
+29 <!-- Single button --> 
+30 <div class="btn-group"> 
+31   <button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-expanded="false"> 
+32    <font size=25> Projects</font> <span class="caret"></span> 
+33   </button> 
+34   <ul class="dropdown-menu" role="menu"> 
+35     <li><a href="http://patenaude.github.io/project">General Projects</a></li> 
+36     <li class="divider"></li> 
+37     <li><a href="#">Websites</a></li> 
+     <li><a href="#">Robotics</a></li> 
+39     <li><a herf="#"> Youtube</a></li> 
+40   </ul> 
+41 </div> 
+42 
+ 
+ <!-- Single button --> 
+ <div class="btn-group"> 
+  <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-expanded="false"> 
+     <font size=25>Merchandise</font> <span class="caret"></span> 
+   </button> 
+  <ul class="dropdown-menu" role="menu"> 
+     <li><a href="#">Action</a></li> 
+   <li><a href="#">Another action</a></li> 
+     <li><a href="#">Something else here</a></li> 
+     <li class="divider"></li> 
+     <li><a href="#">Separated link</a></li> 
+   </ul> 
+ </div> 
+
+ 
+ <!-- Single button --> 
+ <div class="btn-group"> 
+   <button type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown" aria-expanded="false"> 
+    <font size=25> Action</font> <span class="caret"></span> 
+   </button> 
+   <ul class="dropdown-menu" role="menu"> 
+     <li><a href="#">Action</a></li> 
+     <li><a href="#">Another action</a></li> 
+    <li><a href="#">Something else here</a></li> 
+     <li class="divider"></li> 
+    <li><a href="#">Separated link</a></li> 
+   </ul> 
+ </div> 
+ </center> 
+ <br><br><br> 
+ 
+ <h1><center>Projects</center></h1>
+ <br><br>
+ <h1>---------------------------------------------------------------------</h1>
+ <h1><center>Websites<center></h1>
+ <li>Cake Site>/li>
+ <li>Bio Data</li>
+ <li>Patenaude site</li>
+ <br><br> 
+ 
+ 
+ <div class="progress"> 
+   <div class="progress-bar progress-bar-warning progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 45%"> 
+     <span class="sr-only">45% complete</span> 
+   </div> 
+ </div> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script> 
+  <!-- Latest compiled and minified JavaScript --> 
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script> 
+   </body> 
+ </html> 
+
