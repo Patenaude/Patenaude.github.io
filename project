@@ -76,28 +76,19 @@
  </center> 
  <br><br><br> 
  
- <h1><center>Projects</center></h1>
- <br><br>
- <h1>---------------------------------------------------------------------</h1>
- <h1><center>Websites<center></h1>
- <li>Cake Site>/li>
+ <h2><center>Projects</center></h2>
+ <br>
+ <h3>-------------------------------------------------------------------------</h3>
+ <h2><center>Websites<center></h2>
+ <font size = 15>
+ <li>Cake Site</li>
  <li>Bio Data</li>
  <li>Patenaude site</li>
+ </font>
  <br><br> 
  
  
- <div class="progress"> 
-   <div class="progress-bar progress-bar-warning progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 45%"> 
-     <span class="sr-only">45% complete</span> 
-   </div> 
- </div> 
- 
- 
- 
- 
- 
- 
- 
+
  
  
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
