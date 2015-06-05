@@ -1,49 +1,49 @@
-1 <!DOCTYPE html> 
-2 <html> 
-3   <head> 
-4 <link rel="icon" href="demo_icon.gif" type="image/gif" sizes="16x16"> 
-5 
+ <!DOCTYPE html> 
+ <html> 
+   <head> 
+ <link rel="icon" href="demo_icon.gif" type="image/gif" sizes="16x16"> 
  
-6     <!-- Latest compiled and minified CSS --> 
-7  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"> 
-8 
  
-9  <!-- Optional theme --> 
-10  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css"> 
-11      
-12   <body> 
-13 
+    <!-- Latest compiled and minified CSS --> 
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"> 
  
-14 <center> 
-15 <!-- Single button --> 
-16 <div class="btn-group"> 
-17   <button type="button" class="btn btn-warning dropdown-toggle" data-toggle="dropdown" aria-expanded="false"> 
-18     <font size=25>Home</font> <span class="caret"></span> 
-19   </button> 
-20   <ul class="dropdown-menu" role="menu"> 
-21     <li><center>Gallery<br><button><a href="https://www.youtube.com/channel/UCqZdkkMWN2i4fLBUB1ziUUg"><span class="glyphicon glyphicon-picture" aria-hidden="true"></span></button></center></a></li> 
-22     <li><center>Forums<br><button><a href="https://www.youtube.com/channel/UCqZdkkMWN2i4fLBUB1ziUUg"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></button></center></a></li> 
-23     <li><center>Youtube<br><button><a href="https://www.youtube.com/channel/UCqZdkkMWN2i4fLBUB1ziUUg"><span class="glyphicon glyphicon-film" aria-hidden="true"></span></button></center></a></li> 
-24     <li class="divider"></li> 
-25     <li><a href="#">About Patenaude</a></li> 
-26   </ul> 
-27 </div> 
-28 
  
-29 <!-- Single button --> 
-30 <div class="btn-group"> 
-31   <button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-expanded="false"> 
-32    <font size=25> Projects</font> <span class="caret"></span> 
-33   </button> 
-34   <ul class="dropdown-menu" role="menu"> 
-35     <li><a href="http://patenaude.github.io/project">General Projects</a></li> 
-36     <li class="divider"></li> 
-37     <li><a href="#">Websites</a></li> 
+  <!-- Optional theme --> 
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css"> 
+     
+   <body> 
+ 
+ 
+<center> 
+ <!-- Single button --> 
+ <div class="btn-group"> 
+  <button type="button" class="btn btn-warning dropdown-toggle" data-toggle="dropdown" aria-expanded="false"> 
+     <font size=25>Home</font> <span class="caret"></span> 
+   </button> 
+   <ul class="dropdown-menu" role="menu"> 
+     <li><center>Gallery<br><button><a href="https://www.youtube.com/channel/UCqZdkkMWN2i4fLBUB1ziUUg"><span class="glyphicon glyphicon-picture" aria-hidden="true"></span></button></center></a></li> 
+    <li><center>Forums<br><button><a href="https://www.youtube.com/channel/UCqZdkkMWN2i4fLBUB1ziUUg"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></button></center></a></li> 
+     <li><center>Youtube<br><button><a href="https://www.youtube.com/channel/UCqZdkkMWN2i4fLBUB1ziUUg"><span class="glyphicon glyphicon-film" aria-hidden="true"></span></button></center></a></li> 
+     <li class="divider"></li> 
+     <li><a href="#">About Patenaude</a></li> 
+   </ul> 
+ </div> 
+
+ 
+ <!-- Single button --> 
+ <div class="btn-group"> 
+   <button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-expanded="false"> 
+    <font size=25> Projects</font> <span class="caret"></span> 
+   </button> 
+   <ul class="dropdown-menu" role="menu"> 
+    <li><a href="http://patenaude.github.io/project">General Projects</a></li> 
+     <li class="divider"></li> 
+     <li><a href="#">Websites</a></li> 
      <li><a href="#">Robotics</a></li> 
-39     <li><a herf="#"> Youtube</a></li> 
-40   </ul> 
-41 </div> 
-42 
+    <li><a herf="#"> Youtube</a></li> 
+   </ul> 
+ </div> 
+ 
  
  <!-- Single button --> 
  <div class="btn-group"> 
