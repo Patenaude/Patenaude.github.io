@@ -1,0 +1,25 @@
+<html>
+<body>
+<title>Callido</title>
+<script>
+alert("This is a companion that will talk to you and ask you questions, put all non-proper nouns in lower-case letters")
+var name = prompt("What is your name?")
+alert("Hi"+' '+name)
+var age = prompt("How old are you?")
+if (age < 6) {
+alert("Well your pretty young!")
+}  else  {
+alert("I am the same age as you!")
+}
+alert("I forgot, I'm Calido")
+var hobby = prompt("Do you like coding, robotics, or Eingeneering?")
+if (hobby == "yes") {
+alert("Then you should check out patenaude.github.io")
+} else {
+alert("Well patenaude.github.io might change your mind!")
+}
+alert("This is it for v 0.0.0.0.1, hope you like it"+' '+name)
+alert("Collected information"+ '= ' +name+ ', ' +age+ ', ' +hobby)
+</script>
+</body>
+</html>
