@@ -1,5 +1,12 @@
 <html>
 <body>
-<h1>Gallery</h1>
+<h1><center>Gallery</center></h1>
+<br>
+<h2>Mini Piano</h2>
+<center><img src="minipiano.JPG"</center>
+<h2>Custom Nerf Gun</h2>
+<center><img src="nerfpvc.JPG"</center>
+<h2>Youtube</h2>
+<center><img src="youtubebg.JPG"</center>
 </body>
 </html>
