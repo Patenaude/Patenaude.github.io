@@ -25,7 +25,7 @@
     <li><center>Forums<br><button><a href="https://www.youtube.com/channel/UCqZdkkMWN2i4fLBUB1ziUUg"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></button></center></a></li> 
      <li><center>Youtube<br><button><a href="https://www.youtube.com/channel/UCqZdkkMWN2i4fLBUB1ziUUg"><span class="glyphicon glyphicon-film" aria-hidden="true"></span></button></center></a></li> 
      <li class="divider"></li> 
-     <li><a href="#">About Patenaude</a></li> 
+     <li><a href="http://patenaude.github.io/">Go Home</a></li> 
    </ul> 
  </div> 
 
@@ -76,15 +76,37 @@
  </center> 
  <br><br><br> 
  
- <h2><center>Projects</center></h2>
+ <font size = 20><center>Projects</center></font>
  <h3>--------------------------------------------------------------------------------------------------------------------------------</h3>
  <h2><center>Websites<center></h2>
  <h3>
- <li>Cake Site</li>
- <li>Bio Data</li>
- <li>Patenaude site</li>
+ <li>< a href = "CakeSite.github.io">•Cake Site</a></li>
+ <li>•Bio Data</li>
+ <li><a href = "patenaude.github.io">•Patenaude site</a></li>
  </h3>
- <br><br> 
+ <br><br><br>
+ <h2><center>Robotics<center></h2>
+ <h3>
+ <li>< a href = "#">•Piano v1</a></li>
+ <li>•Mini Car</li>
+ <li><a href = "#">•The Future</a></li>
+ </h3>
+ <br><br><br>
+  <h2><center>Youtube<center></h2>
+ <h3>
+ <li>< a href = "#">•Movies</a></li>
+ <li>•nerf videos</li>
+ <li><a href = "#">•video games</a></li>
+ </h3>
+ <br><br><br>
+   <h2><center>Nerf<center></h2>
+ <h3>
+ <li>< a href = "#">•Youtube</a></li>
+ <li>•reviews</li>
+ <li><a href = "#">•movies</a></li>
+ </h3>
+ <br><br><br>
+ 
  
  
 
