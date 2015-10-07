@@ -1,7 +1,7 @@
-Enter file contents here
-<html>
 
+<html>
 <body>
+<title>PatenaudeTube</title>
 
 
 <h1><center><font color=blue>Welcome To PatenaudeTube</font></center></h1>
@@ -15,9 +15,6 @@ Enter file contents here
 
   <source src="example.mp4" type="video/mp4">
 
-  
-
-  
 
 </video>
 
@@ -47,10 +44,6 @@ Enter file contents here
   Your browser does not support the video tag.
 
 </video>
-
-
-
-
 
 
 
