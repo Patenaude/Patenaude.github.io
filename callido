@@ -17,12 +17,9 @@ alert("Well your pretty young!")
 alert("I am the same age as you!")
 }
 alert("I forgot, I'm Calido")
-var hobby = prompt("Do you like coding, robotics, or Eingeneering?")
-if (hobby == "yes") {
-alert("Then you should check out patenaude.github.io")
-} else {
-alert("Well patenaude.github.io might change your mind!")
-}
+var number = prompt("I am a great number guesser! Choose a number between 1 and 100!")
+alert("Was your number"+' '+number"?")
+
 alert("This is it for v 0.0.0.0.2, hope you like it"+' '+name)
 alert("Collected information"+ '= ' +name+ ', ' +age+ ', ' +hobby)
 </script>
