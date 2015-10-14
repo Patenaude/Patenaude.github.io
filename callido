@@ -4,6 +4,9 @@
 <script>
 alert("This is a companion that will talk to you and ask you questions, put all non-proper nouns in lower-case letters")
 var name = prompt("What is your name?")
+if (name = nathan) {
+alert("Wow, you found the special Nathan easter Egg, Congrats!")
+} else {
 alert("Hi"+' '+name)
 var age = prompt("How old are you?")
 if (age < 6) {
@@ -18,7 +21,7 @@ alert("Then you should check out patenaude.github.io")
 } else {
 alert("Well patenaude.github.io might change your mind!")
 }
-alert("This is it for v 0.0.0.0.1, hope you like it"+' '+name)
+alert("This is it for v 0.0.0.0.2, hope you like it"+' '+name)
 alert("Collected information"+ '= ' +name+ ', ' +age+ ', ' +hobby)
 </script>
 </body>
