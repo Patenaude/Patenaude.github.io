@@ -4,11 +4,11 @@
 <script>
 alert("This is a companion that will talk to you and ask you questions, put all non-proper nouns in lower-case letters")
 var name = prompt("What is your name?")
-if (name = nathan) {
-alert("Wow, you found the special Nathan easter Egg, Congrats!")
-}  else  {
+if (name == "nathan") {
+alert("Congrats! You found The Nathan Easter Egg!")
+} else {
 alert("Hi"+' '+name)
-}
+
 var age = prompt("How old are you?")
 if (age < 6) {
 alert("Well your pretty young!")
