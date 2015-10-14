@@ -8,6 +8,7 @@ if (name == "nathan") {
 alert("Congrats! You found The Nathan Easter Egg!")
 } else {
 alert("Hi"+' '+name)
+}
 
 var age = prompt("How old are you?")
 if (age < 6) {
