@@ -5,11 +5,12 @@
 
 
 <h1><center><font color=blue>Welcome To PatenaudeTube</font></center></h1>
+<h1><center><font color=blue>This is a program with videos that you can watch.</font></center></h1>
 
 <br><br>
 
-
-<h2>Video #1</h2>
+<center>
+<h2><font color=red>Video #1</font></h2>
 
 <video width="320" height="240" controls>
 
@@ -19,7 +20,7 @@
 </video>
 
 
-<h2>Video #2</h2>
+<h2><font color=red>Video #2</font></h2>
 
 <video width="320" height="240" controls>
 
@@ -27,13 +28,13 @@
 
   <source src="movie.ogg" type="video/ogg">
 
-  Your browser does not support the video tag.
+  
 
 </video>
 
 
 
-<h2>Video #3</h2>
+<h2><font color=red>Video #3</font></h2>
 
 <video width="320" height="240" controls>
 
@@ -41,13 +42,26 @@
 
   <source src="movie.ogg" type="video/ogg">
 
-  Your browser does not support the video tag.
+ 
 
 </video>
 
+<h2><font color=red>Video #4</font></h2>
 
+<video width="320" height="240" controls>
 
+  <source src="movie.mp4" type="video/mp4">
 
+  <source src="movie.ogg" type="video/ogg">
+
+ 
+
+</video>
+
+</center>
+<br>
+<br>
+<h5>0146</h5>
 
 
 
